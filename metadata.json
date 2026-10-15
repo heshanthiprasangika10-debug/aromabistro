@@ -1,0 +1,6 @@
+{
+  "name": "AromaBistro - Smart Restaurant Management & Ordering System",
+  "description": "Comprehensive Restaurant Management System featuring real-time order tracking, digital menu management, sales analytics, staff access control, customer mobile ordering, AI chatbot, loyalty rewards, and offline mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
